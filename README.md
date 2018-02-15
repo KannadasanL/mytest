@@ -1,4 +1,2 @@
 My test file
-Welcome cloud gurus
-welcome to github testing
-Testing the pull command
+Commiting testing
